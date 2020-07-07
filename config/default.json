@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://admin-divanshu:luckysmart@mern.7actw.mongodb.net/police?retryWrites=true&w=majority",
+    "jwtSecret": "jwt_Secret"
+}
